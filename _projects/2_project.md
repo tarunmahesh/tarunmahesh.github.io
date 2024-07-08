@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Analyzing Racial Biases in GPT-4
+description: a research project with the University of Cambridge
+img: assets/img/ccir_gpt_bias.png
 importance: 2
 category: work
 giscus_comments: true

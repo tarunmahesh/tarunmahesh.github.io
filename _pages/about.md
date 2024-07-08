@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: Founder. Student. Fencer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: tarun_mahesh_headshot.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior at Hillsborough High School with a strong foundation in mathematics and computer science. To enhance my knowledge, I have participated in programs like [PACT](https://algorithmicthinking.org/) and [AOPS Olympiad Training](https://artofproblemsolving.com/school/course/woot-math), and completed courses from the University of Michigan and Rutgers University in linear algebra, computer science, and machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I actively engage in research to push the boundaries of machine learning. Currently, I am working on Alzheimer's diagnosis classification with deep neural networks under Dr. Yu Zhang at Lehigh University’s [Brain Imaging and Computation Lab](https://yuzhangresearch.weebly.com/), and exploring encoded bias in LLMs with [Dr. Mohammad Taher Pilehvar](https://www.mmll.cam.ac.uk/mp792) at the University of Cambridge.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As the founder of Modellum AI, I lead a consulting company that creates custom AI tools for financial institutions. Additionally, I am developing RecoverRight, an app designed to monitor and assess physical rehabilitation activities for elderly patients, in collaboration with Hillsborough Township administration.

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Word Canvas
+description: AI-enabled tool for those with reading difficulties
+img: assets/img/word_canvas.png
 importance: 1
 category: work
 related_publications: true
@@ -20,6 +20,16 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+
+Example of jupyter notebook in project
+
+{% raw %}
+
+```python
+import numpy as np
+```
+
+{% endraw %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
